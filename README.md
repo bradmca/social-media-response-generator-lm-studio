@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![LM Studio](https://img.shields.io/badge/Backend-LM%20Studio-purple.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img width="890" height="517" alt="Screenshot 2026-01-29 121336" src="https://github.com/user-attachments/assets/2f2aa02f-763e-4b26-affb-4b05a3dcb678" />
+<img width="1459" height="733" alt="Screenshot 2026-01-29 121336" src="https://github.com/user-attachments/assets/a9740b6a-09ee-4afa-a17b-88650ebe3e3c" />
 
 
 ## 🧐 What is this?
