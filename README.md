@@ -95,3 +95,5 @@ Press `Esc` to quit the script.
 **Server not starting:**
 - Check if port 1234 is already in use
 - Try starting LM Studio manually once, then run the script again
+- 
+**⭐ If this project helps you, please give it a star!**
